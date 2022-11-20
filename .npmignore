@@ -1,0 +1,11 @@
+/src
+/test-data
+/node_modules
+
+out-*.xlsx
+
+.gitignore
+package-lock.json
+
+/.idea
+/.DS_Store

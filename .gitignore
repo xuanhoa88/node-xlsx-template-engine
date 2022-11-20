@@ -1,0 +1,10 @@
+.idea
+.vscode
+
+node_modules
+dist
+
+out-*.xlsx
+
+package-lock.json
+.DS_Store
